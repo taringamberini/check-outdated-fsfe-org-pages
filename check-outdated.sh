@@ -42,15 +42,16 @@
 #
 # USAGE
 #
-# Download it from my github repository:
-#
+# Download from my github repository:
+# 
 #     $ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
 #     $ cd check-outdated-fsfe-org-pages
-#
-# and at bash prompt run:
-#
-#     $ ./check-outdated.sh < fsfe-org-pages.txt
-#
+# 
+# Add to a text file, for example `fsfe-org-urls.txt`, the URL of `fsfe.org` pages
+# you want to check, than run:
+# 
+#     $ ./check-outdated.sh < fsfe-org-urls.txt
+# 
 #
 # DETAILS
 #
@@ -60,7 +61,7 @@
 # * MAY contain empty lines
 # * MAY contain lines which start with the sharp (#) character
 #
-# Example of a my_fsfe-org-urls.txt content:
+# Example of a fsfe-org-urls.txt content:
 #     
 #     # Top menu pages
 #     https://fsfe.org/about/about.it.html 

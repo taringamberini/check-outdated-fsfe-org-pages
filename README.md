@@ -30,25 +30,26 @@ might be:
 
 ## USAGE
 
-Download it from my github repository:
+Download from my github repository:
 
     $ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
     $ cd check-outdated-fsfe-org-pages
 
-and at bash prompt run:
+Add to a text file, for example `fsfe-org-urls.txt`, the URL of `fsfe.org` pages
+you want to check, than run:
 
-    $ ./check-outdated.sh < fsfe_org_urls.txt
+    $ ./check-outdated.sh < fsfe-org-urls.txt
 
 
 ## DETAILS
 
-`check_outdated.sh` reads fsf.org page's URL from a txt file. Such file:
+`check-outdated.sh` reads fsf.org page's URL from a txt file. Such file:
 
 * MUST contain a single URL for each line
 * MAY contain empty lines
 * MAY contain lines which start with the sharp (#) character
 
-Example of a `fsfe_org_urls.txt` content:
+Example of a `fsfe-org-urls.txt` content:
     
     # Top menu pages
     https://fsfe.org/about/about.it.html 
