@@ -1,7 +1,7 @@
 # check-outdated-fsfe-org-pages
 
 `check-outdated.sh` is a bash script that helps me checking if my favourite
-translated pages of the fsfe.org web site are outdated.
+translated pages of the [fsfe.org](https://fsfe.org/) web site are outdated.
 
 
 ## Quick Start
