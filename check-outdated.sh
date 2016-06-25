@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# check-outdated - is a bash script which checks for outdated fsfe.org pages.
+# check-outdated - helps checking if my favourite fsfe.org pages are outdated.
 # Read more on https://github.com/taringamberini/check-outdated-fsfe-org-pages
 #
 # Copyright (C) 2016 Tarin Gamberini <www.taringamberini.com>
