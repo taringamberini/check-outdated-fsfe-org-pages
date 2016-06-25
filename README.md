@@ -5,16 +5,16 @@
 
 ##  QUICK START
 
-$ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
-$ cd check-outdated-fsfe-org-pages
-$ ./check-outdated.sh < fsfe-org-urls.txt
+    $ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
+    $ cd check-outdated-fsfe-org-pages
+    $ ./check-outdated.sh < fsfe-org-urls.txt
 
 
 ##  DOWNLOAD
 
 Download `check-outdated.sh` from my github repository:
 
-$ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
+    $ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
 
 If you haven't git installed simply
 [download `check-outdated.sh`](https://raw.githubusercontent.com/taringamberini/check-outdated-fsfe-org-pages/master/check-outdated.sh)
