@@ -88,8 +88,8 @@ Example of a `fsfe-org-urls.txt` content:
     https://fsfe.org/contribute/spreadtheword.it.html
     https://fsfe.org/freesoftware/basics/sourcecode.it.html
 
-For each URL it loads the page (you need to be connected to the
-Internet) and look for the text configured in the constant
+For each URL `check-outdated.sh` loads the page (you need to be connected to the
+Internet) and looks for the text configured in the constant
 `OUTDATED_WARNING_TEXT_FRAGMENT`: if such text is found the line
 which contains it is printed. For example:
 
