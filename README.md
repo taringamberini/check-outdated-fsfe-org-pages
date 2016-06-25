@@ -3,7 +3,7 @@
 `check-outdated.sh` is a bash script that checks for outdated fsfe.org pages.
 
 
-## Quick start
+## Quick Start
 
     $ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
     $ cd check-outdated-fsfe-org-pages
