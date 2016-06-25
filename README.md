@@ -3,14 +3,14 @@
 `check-outdated.sh` is a bash script that checks for outdated fsfe.org pages.
 
 
-##  QUICK START
+## Quick start
 
     $ git clone https://github.com/taringamberini/check-outdated-fsfe-org-pages.git
     $ cd check-outdated-fsfe-org-pages
     $ ./check-outdated.sh < fsfe-org-urls.txt
 
 
-##  DOWNLOAD
+## Download
 
 Download `check-outdated.sh` from my github repository:
 
@@ -22,7 +22,7 @@ and save it where you prefer, for example in a directory named
 `check-outdated-fsfe-org-pages`.
 
 
-## CONFIGURATION
+## Configuration
 
 In the `check-outdated.sh` file set the value of the constant
 `OUTDATED_WARNING_TEXT_FRAGMENT` with the fragment of the text shown in the 
@@ -47,7 +47,7 @@ directly from the source code of an outdated page. For example it might be:
       OUTDATED_WARNING_TEXT_FRAGMENT="This page may be out of date"
 
 
-## USAGE
+## Usage
 
 Add to the text file `fsfe-org-urls.txt` the URL of `fsfe.org` pages you want to
 check. If such file doesn't exists yet create it in the
@@ -62,7 +62,7 @@ and run:
     $ ./check-outdated.sh < fsfe-org-urls.txt
 
 
-## DETAILS
+## Details
 
 `check-outdated.sh` reads fsf.org page's URL from a txt file. Such file:
 
