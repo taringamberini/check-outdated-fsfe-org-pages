@@ -1,0 +1,14 @@
+# Top menu pages
+https://fsfe.org/about/about.it.html 
+https://fsfe.org/work.it.html 
+https://fsfe.org/campaigns/campaigns.it.html 
+https://fsfe.org/contribute/contribute.it.html
+https://fsfe.org/press/press.it.html
+
+# Other pages of your interest
+https://fsfe.org/about/basics/freesoftware.it.html
+https://fsfe.org/acti.it.es/radiodirective/statement.it.html
+https://fsfe.org/campaigns/pdfreaders/pdfreaders.it.html
+https://fsfe.org/contribute/getyourgraphic.it.html
+https://fsfe.org/contribute/spreadtheword.it.html
+https://fsfe.org/freesoftware/basics/sourcecode.it.html
